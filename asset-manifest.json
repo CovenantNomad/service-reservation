@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/service-reservation/static/js/main.7a866687.chunk.js",
-    "main.js.map": "/service-reservation/static/js/main.7a866687.chunk.js.map",
+    "main.js": "/service-reservation/static/js/main.53896f42.chunk.js",
+    "main.js.map": "/service-reservation/static/js/main.53896f42.chunk.js.map",
     "runtime-main.js": "/service-reservation/static/js/runtime-main.a94cad45.js",
     "runtime-main.js.map": "/service-reservation/static/js/runtime-main.a94cad45.js.map",
     "static/js/2.0e175b4c.chunk.js": "/service-reservation/static/js/2.0e175b4c.chunk.js",
@@ -9,6 +9,8 @@
     "index.html": "/service-reservation/index.html",
     "static/js/2.0e175b4c.chunk.js.LICENSE.txt": "/service-reservation/static/js/2.0e175b4c.chunk.js.LICENSE.txt",
     "static/media/bannerview2.a708aa77.jpeg": "/service-reservation/static/media/bannerview2.a708aa77.jpeg",
+    "static/media/barcode.d2aa1fec.jpg": "/service-reservation/static/media/barcode.d2aa1fec.jpg",
+    "static/media/confirmedImage02.e6da9078.svg": "/service-reservation/static/media/confirmedImage02.e6da9078.svg",
     "static/media/cross.a349f962.svg": "/service-reservation/static/media/cross.a349f962.svg",
     "static/media/thumbnail01.87724676.png": "/service-reservation/static/media/thumbnail01.87724676.png",
     "static/media/thumbnail02.6a86553f.jpeg": "/service-reservation/static/media/thumbnail02.6a86553f.jpeg",
@@ -20,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.a94cad45.js",
     "static/js/2.0e175b4c.chunk.js",
-    "static/js/main.7a866687.chunk.js"
+    "static/js/main.53896f42.chunk.js"
   ]
 }
