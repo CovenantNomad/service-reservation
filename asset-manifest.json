@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/service-reservation/static/js/main.e7b00081.chunk.js",
-    "main.js.map": "/service-reservation/static/js/main.e7b00081.chunk.js.map",
+    "main.js": "/service-reservation/static/js/main.ee040d16.chunk.js",
+    "main.js.map": "/service-reservation/static/js/main.ee040d16.chunk.js.map",
     "runtime-main.js": "/service-reservation/static/js/runtime-main.a94cad45.js",
     "runtime-main.js.map": "/service-reservation/static/js/runtime-main.a94cad45.js.map",
     "static/js/2.0e175b4c.chunk.js": "/service-reservation/static/js/2.0e175b4c.chunk.js",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.a94cad45.js",
     "static/js/2.0e175b4c.chunk.js",
-    "static/js/main.e7b00081.chunk.js"
+    "static/js/main.ee040d16.chunk.js"
   ]
 }
