@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/hwayang-resvervation/static/js/main.7491b4a8.chunk.js",
-    "main.js.map": "/hwayang-resvervation/static/js/main.7491b4a8.chunk.js.map",
-    "runtime-main.js": "/hwayang-resvervation/static/js/runtime-main.800300cf.js",
-    "runtime-main.js.map": "/hwayang-resvervation/static/js/runtime-main.800300cf.js.map",
-    "static/js/2.adf4ee18.chunk.js": "/hwayang-resvervation/static/js/2.adf4ee18.chunk.js",
-    "static/js/2.adf4ee18.chunk.js.map": "/hwayang-resvervation/static/js/2.adf4ee18.chunk.js.map",
-    "index.html": "/hwayang-resvervation/index.html",
-    "static/js/2.adf4ee18.chunk.js.LICENSE.txt": "/hwayang-resvervation/static/js/2.adf4ee18.chunk.js.LICENSE.txt",
-    "static/media/bannerview2.a708aa77.jpeg": "/hwayang-resvervation/static/media/bannerview2.a708aa77.jpeg",
-    "static/media/cross.a349f962.svg": "/hwayang-resvervation/static/media/cross.a349f962.svg",
-    "static/media/thumbnail01.87724676.png": "/hwayang-resvervation/static/media/thumbnail01.87724676.png",
-    "static/media/thumbnail02.6a86553f.jpeg": "/hwayang-resvervation/static/media/thumbnail02.6a86553f.jpeg",
-    "static/media/thumbnail03.48befe7e.png": "/hwayang-resvervation/static/media/thumbnail03.48befe7e.png",
-    "static/media/thumbnail04.ce7fb85d.jpeg": "/hwayang-resvervation/static/media/thumbnail04.ce7fb85d.jpeg",
-    "static/media/thumbnail05.87a19099.png": "/hwayang-resvervation/static/media/thumbnail05.87a19099.png",
-    "static/media/thumbnail06.3ba14c52.png": "/hwayang-resvervation/static/media/thumbnail06.3ba14c52.png"
+    "main.js": "/service-reservation/static/js/main.28126333.chunk.js",
+    "main.js.map": "/service-reservation/static/js/main.28126333.chunk.js.map",
+    "runtime-main.js": "/service-reservation/static/js/runtime-main.a94cad45.js",
+    "runtime-main.js.map": "/service-reservation/static/js/runtime-main.a94cad45.js.map",
+    "static/js/2.0a286bd1.chunk.js": "/service-reservation/static/js/2.0a286bd1.chunk.js",
+    "static/js/2.0a286bd1.chunk.js.map": "/service-reservation/static/js/2.0a286bd1.chunk.js.map",
+    "index.html": "/service-reservation/index.html",
+    "static/js/2.0a286bd1.chunk.js.LICENSE.txt": "/service-reservation/static/js/2.0a286bd1.chunk.js.LICENSE.txt",
+    "static/media/bannerview2.a708aa77.jpeg": "/service-reservation/static/media/bannerview2.a708aa77.jpeg",
+    "static/media/cross.a349f962.svg": "/service-reservation/static/media/cross.a349f962.svg",
+    "static/media/thumbnail01.87724676.png": "/service-reservation/static/media/thumbnail01.87724676.png",
+    "static/media/thumbnail02.6a86553f.jpeg": "/service-reservation/static/media/thumbnail02.6a86553f.jpeg",
+    "static/media/thumbnail03.48befe7e.png": "/service-reservation/static/media/thumbnail03.48befe7e.png",
+    "static/media/thumbnail04.ce7fb85d.jpeg": "/service-reservation/static/media/thumbnail04.ce7fb85d.jpeg",
+    "static/media/thumbnail05.87a19099.png": "/service-reservation/static/media/thumbnail05.87a19099.png",
+    "static/media/thumbnail06.3ba14c52.png": "/service-reservation/static/media/thumbnail06.3ba14c52.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.800300cf.js",
-    "static/js/2.adf4ee18.chunk.js",
-    "static/js/main.7491b4a8.chunk.js"
+    "static/js/runtime-main.a94cad45.js",
+    "static/js/2.0a286bd1.chunk.js",
+    "static/js/main.28126333.chunk.js"
   ]
 }
